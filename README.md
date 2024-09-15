@@ -13,7 +13,7 @@
 <a href="https://linkedin.com/in/jagansakharkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jagansakharkar" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/jagansakharkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="jagansakharkar" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/jagansakharkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jagansakharkar" height="30" width="40" /></a>
-     <a href="https://www.codechef.com/users/jagans03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codechef.svg" alt="@jagansakharkar" height="30" width="40" /></a>
+    
 <a href="https://twitter.com/@jagansakharkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@jagansakharkar" height="30" width="40" /></a>
 <a href="https://medium.com/@jagansakharkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@jagansakharkar" height="30" width="40" /></a>
 </p>
