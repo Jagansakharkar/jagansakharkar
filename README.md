@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Full stack web development**
 
-- 💬 Ask me about **c++,java,python,javascript,reactJS**
+- 💬 Ask me about **C++,Java,Python,SQL,Javascript,ReactJS**
 
 - 📫 How to reach me **jagansakharkar20@gmail.com**
 
