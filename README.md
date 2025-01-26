@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Jagan Raju Sakharkar</h1>
-<h3 align="center">Frontend developer from India</h3>
+<h3 align="center">MERN Stack Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jagansakharkar&label=Profile%20views&color=0e75b6&style=flat" alt="jagansakharkar" /> </p>
 
-- 🌱 I’m currently learning **Full stack web development**
+- 🌱 I’m currently learning **MERN Stack Development**
 
-- 💬 Ask me about **C++,Java,Python,SQL,Javascript,ReactJS**
+- 💬 Ask me about **C++,Java,Python,SQL,Javascript,ReactJS,ExpressJS,NodeJS,MongoDB**
 
 - 📫 How to reach me **jagansakharkar20@gmail.com**
 
